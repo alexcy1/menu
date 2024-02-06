@@ -1,0 +1,53 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "name": "Magnam Tiste",
+        "description": "Savor the Magnificence!",
+        "image": "assets/img/menu/menu-item-1.png",
+        "price": 5.95,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "name": "Aut Luia",
+        "description": "A Taste Beyond Imagination!",
+        "image": "assets/img/menu/menu-item-2.png",
+        "price": 14.95,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Est Eligendi",
+        "description": "Elegance on Every Plate!",
+        "image": "assets/img/menu/menu-item-3.png",
+        "price": 8.95,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "name": "Vegetable Salad",
+        "description": "Freshness Unleashed!",
+        "image": "assets/img/menu/menu-item-4.png",
+        "price": 12.95,
+        "quantity": 1
+      },
+      {
+        "id": 5,
+        "name": "Eos Luibusdam",
+        "description": "Indulge in Pure Delight",
+        "image": "assets/img/menu/menu-item-5.png",
+        "price": 12.95,
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "name": "Yuzu Desserts",
+        "description": "Zest Up Your Dessert Experience!",
+        "image": "assets/img/menu/menu-item-6.png",
+        "price": 9.95,
+        "quantity": 1
+      }
+    ]
+  }
+  
