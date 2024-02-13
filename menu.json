@@ -5,7 +5,7 @@
         "name": "Magnam Tiste",
         "description": "Savor the Magnificence!",
         "image": "https://source.unsplash.com/sandwich-with-boiled-egg-fdlZBWIP0aM",
-        "price": 5.95,
+        "price": 18.95,
         "quantity": 1
       },
       {
@@ -13,7 +13,7 @@
         "name": "Aut Luia",
         "description": "A Taste Beyond Imagination!",
         "image": "https://source.unsplash.com/pizza-on-chopping-board-MqT0asuoIcU",
-        "price": 14.95,
+        "price": 21.66,
         "quantity": 1
       },
       {
@@ -21,7 +21,7 @@
         "name": "Est Eligendi",
         "description": "Elegance on Every Plate!",
         "image": "https://source.unsplash.com/toast-bread-with-blueberry-on-black-plate-zcUgjyqEwe8",
-        "price": 8.95,
+        "price": 8.00,
         "quantity": 1
       },
       {
@@ -29,7 +29,7 @@
         "name": "Vegetable Salad",
         "description": "Freshness Unleashed!",
         "image": "https://source.unsplash.com/cooked-food-on-black-bowl-ZuIDLSz3XLg",
-        "price": 12.95,
+        "price": 12.50,
         "quantity": 1
       },
       {
@@ -37,7 +37,7 @@
         "name": "Eos Luibusdam",
         "description": "Indulge in Pure Delight",
         "image": "https://source.unsplash.com/sushi-in-the-plate-jpkfc5_d-DI",
-        "price": 12.95,
+        "price": 19.75,
         "quantity": 1
       },
       {
@@ -45,9 +45,154 @@
         "name": "Yuzu Desserts",
         "description": "Zest Up Your Dessert Experience!",
         "image": "https://source.unsplash.com/burger-skewered-with-knife-near-black-textile-1Shk_PkNkNw",
-        "price": 9.95,
+        "price": 7.72,
+        "quantity": 1
+      },
+      {
+        "id": 7,
+        "name": "Meat Balls",
+        "description": "Sweet meat balls!",
+        "image": "https://source.unsplash.com/meat-balls-on-oval-white-plate-OFismyezPnY",
+        "price": 10.32,
+        "quantity": 1
+      },
+      {
+        "id": 8,
+        "name": "Roasted Meat",
+        "description": "Blackish roasted meat!",
+        "image": "https://source.unsplash.com/close-up-photo-of-cooked-food-on-square-white-plate-auIbTAcSH6E",
+        "price": 23.00,
+        "quantity": 1
+      },
+      {
+        "id": 9,
+        "name": "Spaghetti & Meatballs",
+        "description": "Delicious Spaghetti Meatballs!",
+        "image": "https://source.unsplash.com/spaghetti-and-meatballs-with-basil-garnish-shot-close-up-HTpiHBRoBIc",
+        "price": 14.11,
+        "quantity": 1
+      },
+      {
+        "id": 10,
+        "name": "Sliced Chicken",
+        "description": "Sliced chicken with roasted yam!",
+        "image": "https://source.unsplash.com/cooked-dish-mjcJ0FFgdWI",
+        "price": 11.42,
+        "quantity": 1
+      },
+      {
+        "id": 11,
+        "name": "Baked Bread",
+        "description": "Baked bread with chocolate!",
+        "image": "https://source.unsplash.com/baked-bread-with-chocolate-syrup-1RHsJPr0KH8",
+        "price": 15.10,
+        "quantity": 1
+      },
+      {
+        "id": 12,
+        "name": "Fried Chicken",
+        "description": "Fried Chicken with Soup",
+        "image": "https://source.unsplash.com/fried-food-on-white-ceramic-plate-VpOpy6QrDrs",
+        "price": 19.00,
+        "quantity": 1
+      },
+      {
+        "id": 13,
+        "name": "Orange Fillet",
+        "description": "Orange fillet with broccoli",
+        "image": "https://source.unsplash.com/orange-fillet-with-broccoli-jFu2L04tMBc",
+        "price": 10.98,
+        "quantity": 1
+      },
+      {
+        "id": 14,
+        "name": "Italian Spaghetti",
+        "description": "Italian spaghetti & metaball",
+        "image": "https://source.unsplash.com/italian-spaghetti-and-metaball-dinner-close-up-shot-with-selective-focus-6Qc4anXK_4A",
+        "price": 12.60,
+        "quantity": 1
+      },
+      {
+        "id": 15,
+        "name": "Raw Meat",
+        "description": "Raw meat with vegetable",
+        "image": "https://source.unsplash.com/raw-meat-44kkiS0N1TQ",
+        "price": 9.76,
+        "quantity": 1
+      },
+      {
+        "id": 16,
+        "name": "Onions Fish",
+        "description": "Fish with onions & asparagus",
+        "image": "https://source.unsplash.com/fish-with-onions-and-asparagus-t05q7TZObzc",
+        "price": 13.18,
+        "quantity": 1
+      },
+      {
+        "id": 17,
+        "name": "Shrimps & Fish",
+        "description": "Sweet shrimps with fish",
+        "image": "https://source.unsplash.com/plate-of-shrimps-on-wooden-surface-BXT--puFdfo",
+        "price": 20.56,
+        "quantity": 1
+      },
+      {
+        "id": 18,
+        "name": "Vegetables Chicken",
+        "description": "Chicken & vegetables",
+        "image": "https://source.unsplash.com/chicken-and-vegetables-on-plte-14jmOnCcZkU",
+        "price": 18.87,
+        "quantity": 1
+      },
+      {
+        "id": 19,
+        "name": "Sweet Turkey",
+        "description": "Turkey & other foods",
+        "image": "https://source.unsplash.com/a-table-topped-with-a-turkey-and-other-foods-1YVJoTg190I",
+        "price": 24.99,
+        "quantity": 1
+      },
+      {
+        "id": 20,
+        "name": "Rice & Egg",
+        "description": "Cooked rice with egg",
+        "image": "https://source.unsplash.com/cooked-rice-with-egg-ykThMylLsbY",
+        "price": 7.00,
+        "quantity": 1
+      },
+      {
+        "id": 21,
+        "name": "Bread & vegetable",
+        "description": "Sliced bread with vegetable",
+        "image": "https://source.unsplash.com/sliced-bread-with-vegetable-on-white-ceramic-plate-6unxGRCPg0U",
+        "price": 9.12,
+        "quantity": 1
+      },
+      {
+        "id": 22,
+        "name": "Grilled Meat",
+        "description": "Grilled meat with green vegetable",
+        "image": "https://source.unsplash.com/grilled-meat-with-green-vegetable-on-black-ceramic-plate-4WPcz_5RVMk",
+        "price": 14.48,
+        "quantity": 1
+      },
+      {
+        "id": 23,
+        "name": "Bread & Beef Meat",
+        "description": "sliced bread with beef meat",
+        "image": "https://source.unsplash.com/sliced-bread-on-blue-and-white-ceramic-plate-e3AA8nJMwTI",
+        "price": 18.10,
+        "quantity": 1
+      },
+      {
+        "id": 24,
+        "name": "White Beef Meat",
+        "description": "White beef meat with sauce",
+        "image": "https://source.unsplash.com/cooked-food-on-white-ceramic-plate-uO4R-Xn3KwE",
+        "price": 13.00,
         "quantity": 1
       }
+
     ]
   }
   
